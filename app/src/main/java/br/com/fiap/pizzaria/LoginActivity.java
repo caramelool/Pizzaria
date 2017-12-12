@@ -60,5 +60,6 @@ public class LoginActivity extends AppCompatActivity {
     private void clear() {
         username.getEditText().setText("");
         password.getEditText().setText("");
+        username.getEditText().requestFocus();
     }
 }

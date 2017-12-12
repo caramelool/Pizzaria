@@ -5,4 +5,9 @@
     <string name="txt_senha">Senha</string>
     <string name="hint_senha">Informe sua senha</string>
     <string name="botao_login">Conectar</string>
+
+    <string name="dinheiro">Dinheiro</string>
+    <string name="debito">Cartão Debito</string>
+    <string name="credito">Cartão Credito</string>
+    <string name="vale_refeicao">Vale Refeição</string>
 </resources>

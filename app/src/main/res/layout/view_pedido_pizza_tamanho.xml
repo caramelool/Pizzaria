@@ -10,20 +10,24 @@
         android:layout_height="wrap_content" />
 
     <RadioGroup
+        android:id="@+id/rgTamanho"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
         <RadioButton
+            android:id="@+id/rbPequena"
             android:text="Pequena"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
         <RadioButton
+            android:id="@+id/rbMedia"
             android:text="Média"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
         <RadioButton
+            android:id="@+id/rbGrande"
             android:text="Grande"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
