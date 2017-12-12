@@ -20,7 +20,7 @@
             android:name=".SplashActivity"
             android:theme="@style/FullScreen" />
         <activity android:name=".PedidoActivity" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".ConfirmarPedidoActivity"></activity>
     </application>
 
 </manifest>

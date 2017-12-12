@@ -1,6 +1,5 @@
 package br.com.fiap.pizzaria;
 
-import android.app.Application;
 import android.support.multidex.MultiDexApplication;
 
 /**
